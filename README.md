@@ -1,5 +1,5 @@
 # CTF Stuff
-This is a culmination of scripts I have used in the past for CTF competitions
+This is a culmination of scripts I have used in the past for CTF competitions. Started in 2023 will likely grow with time
 
 ## NCL - National Cyber Leauge<br>
 ### flag generate
